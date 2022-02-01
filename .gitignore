@@ -1,0 +1,6 @@
+doc-pak/
+st
+*.o
+*.deb
+backup*.tgz
+
